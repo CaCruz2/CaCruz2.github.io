@@ -1,3 +1,18 @@
 body {
-    background-color: lightblue;
+  background-color: white;
+}
+h1 {
+  font-size: 50px;
+}
+h1 {
+  font-color: black;
+}
+p {
+  font-size: 22px;
+}
+.container{
+  display: flex;
+}
+.list h3{
+  padding-left: 25px
 }
