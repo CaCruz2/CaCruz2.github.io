@@ -1,11 +1,12 @@
 body {
-  background-color: white;
+  background-image: url("http://www.artprintdecor.com/uploads/City-Bridge-Landscape-03-Z-The-San-Francisco-Oakland-Bay-Bridge--800x540.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 h1 {
   font-size: 45px;
-}
-h1 {
   font-color: black;
+
 }
 p {
   font-size: 22px;
@@ -16,12 +17,4 @@ p {
 .list h3{
   padding-left: 25px
 }
-body {
-    background-image: url("http://www.artprintdecor.com/uploads/City-Bridge-Landscape-03-Z-The-San-Francisco-Oakland-Bay-Bridge--800x540.jpg");
-}
-body {
-    background-repeat: no-repeat;
-}
-body {
-    background-size: auto;
-}
+
