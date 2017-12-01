@@ -19,6 +19,8 @@ p {
   padding-left: 25px
 }
 h3 {
- background-color: blue;
+  background-color: blue;
 }
-
+li {
+  background-color: blue;
+}
