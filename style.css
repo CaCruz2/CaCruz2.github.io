@@ -20,7 +20,10 @@ p {
 }
 h3 {
   background-color: blue;
+  
 }
 li {
   background-color: blue;
+  opacity: 0.5;
 }
+
