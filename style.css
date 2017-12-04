@@ -10,7 +10,6 @@ h1 {
 }
 p {
   font-size: 22px;
-  background-color: blue;
 }
 .container{
   display: flex;
@@ -18,11 +17,5 @@ p {
 .list h3{
   padding-left: 25px
 }
-h3 {
-  background-color: blue;
-  
-}
-li {
-  background-color: blue;
-}
+
 
