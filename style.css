@@ -15,7 +15,11 @@ p {
   display: flex;
 }
 .list h3{
-  padding-left: 25px
+  padding-left: 25px;
 }
 
+.intro{
+  margin-left: 11%;
+  margin-right: 11%;
+}
 
