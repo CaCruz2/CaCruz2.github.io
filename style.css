@@ -6,7 +6,7 @@ body {
 h1 {
   font-size: 45px;
   font-color: black;
-  background-color: #82b1ff99
+  background-color: #82b1ff99;
 
 }
 p {
@@ -17,7 +17,7 @@ p {
 }
 .list h3{
   padding-left: 25px;
-  background-color: #82b1ff99
+  background-color: #82b1ff99;
 }
 
 .intro{
