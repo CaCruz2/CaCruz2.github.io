@@ -1,11 +1,10 @@
 body {
-  background-image: url("https://a.travel-assets.com/findyours-php/viewfinder/images/res60/22000/22323-Golden-Gate-Bridge.jpg");
+  background-image: url("http://melissavandyke.com/wp-content/uploads/2015/09/code.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 h1 {
   font-size: 45px;
-  background-color: #82b1ff99;
   margin-left: 33%;
   margin-right: 33%;
 }
@@ -17,7 +16,6 @@ p {
 }
 .list h3{
   padding-left: 25px;
-  background-color: #82b1ff99;
 }
 
 .intro{
@@ -25,6 +23,5 @@ p {
   margin-right: 18%;
 }
 ul{
-  background-color: #82b1ff99;
 }
 
